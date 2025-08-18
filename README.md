@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Aishwarya
-- 👀 I’m interested in web development and DevOps
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on front-end development
-
+lost in dreams for now
 
 <!---
 AishwaryaRajput09/AishwaryaRajput09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
